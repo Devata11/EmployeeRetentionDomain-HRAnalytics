@@ -27,6 +27,12 @@ https://github.com/Devata11/EmployeeRetentionDomain-HRAnalytics/blob/main/Exel%2
 
 2. Power BI Dashboard
 
+https://github.com/Devata11/EmployeeRetentionDomain-HRAnalytics/blob/main/PowerBI%20Dashboard.png
+
+3. Tableau Dashboard
+
+
+
 
 
 
