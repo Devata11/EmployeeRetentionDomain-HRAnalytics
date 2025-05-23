@@ -33,6 +33,8 @@ https://github.com/Devata11/EmployeeRetentionDomain-HRAnalytics/blob/main/PowerB
 
    https://github.com/Devata11/EmployeeRetentionDomain-HRAnalytics/blob/main/Tableau%20Dashboard.png
 
+   https://github.com/Devata11/EmployeeRetentionDomain-HRAnalytics/blob/main/Tableau%20Dashboard_2.png
+
 
 
 
