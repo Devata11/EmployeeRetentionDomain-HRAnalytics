@@ -14,9 +14,9 @@ HR Analytics Project
 
 Avg % hike			:	25%                                  Average Age			:	39
 
-Avg year at company	:	11                               Avg Monthly Income	:	26,016
+Avg year at company	:	11                            Avg Monthly Income	:	26,016
 
-Avg Performance rating	:	2.5                         Avg Hourly Rate		:	115.43
+Avg Performance rating	:	2.5                        Avg Hourly Rate		:	115.43
 
 
 📊 Dashboard Previews
@@ -34,6 +34,24 @@ https://github.com/Devata11/EmployeeRetentionDomain-HRAnalytics/blob/main/PowerB
    https://github.com/Devata11/EmployeeRetentionDomain-HRAnalytics/blob/main/Tableau%20Dashboard.png
 
    https://github.com/Devata11/EmployeeRetentionDomain-HRAnalytics/blob/main/Tableau%20Dashboard_2.png
+
+
+⚙️ Tools and Technologies
+Power BI: For dashboard creation.
+MySQL: To run queries and manage data.
+📖 Domain Knowledge
+Understanding of bank hr processes, borrower assessment, and risk management is crucial for interpreting the results.
+
+⚠️ Challenges Faced
+Handling missing data and inconsistencies in employee records.
+Optimizing SQL queries for large datasets.
+
+🎯 Conclusion
+The Conclusion Of HR Analytics Project Is Not Just The End Of The Analysis Phase But The Beginning Of A Continuous Improvement Cycle.
+
+By Regularly Monitoring Key Metrics And Refining Strategies, Organizations Can Maximize The Benefits Of Data-driven HR Practices.
+
+
 
 
 
