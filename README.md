@@ -31,6 +31,8 @@ https://github.com/Devata11/EmployeeRetentionDomain-HRAnalytics/blob/main/PowerB
 
 3. Tableau Dashboard
 
+   https://github.com/Devata11/EmployeeRetentionDomain-HRAnalytics/blob/main/Tableau%20Dashboard.png
+
 
 
 
