@@ -37,12 +37,16 @@ https://github.com/Devata11/EmployeeRetentionDomain-HRAnalytics/blob/main/PowerB
 
 
 ⚙️ Tools and Technologies
+
 Power BI: For dashboard creation.
 MySQL: To run queries and manage data.
+
 📖 Domain Knowledge
+
 Understanding of bank hr processes, borrower assessment, and risk management is crucial for interpreting the results.
 
 ⚠️ Challenges Faced
+
 Handling missing data and inconsistencies in employee records.
 Optimizing SQL queries for large datasets.
 
