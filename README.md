@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2463afeb-0d29-4881-b07d-5be1948e1746)# EmployeeRetentionDomain-HRAnalytics
+
 Creating an HR Analysis Dashboard involves visualizing  key HRmetrics to enable informed decision-making. An  outline of what an HR dashboard might include, as well  as steps andkeymetricstoconsider. Tools Used: Excel,Power BI, Tableau, SQL
 
 🌐 Overview
@@ -23,7 +23,9 @@ Avg Performance rating	:	2.5                         Avg Hourly Rate		:	115.43
 
 1. Excel Dashboard
 
+https://github.com/Devata11/EmployeeRetentionDomain-HRAnalytics/blob/main/Exel%20Dashboard.png
 
+2. Power BI Dashboard
 
 
 
