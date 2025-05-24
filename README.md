@@ -99,7 +99,8 @@ The HR Analytics project helps organizations make **informed HR decisions** usin
 
 ### Power BI Dashboard  
 *(open `.pbix` for full interactivity)*  
-![Power BI Dashboard Preview](https://github.com/user-attachments/assets/YOUR_IMAGE_ID_HERE)
+![Screenshot (91)](https://github.com/user-attachments/assets/9fb773b6-fbce-4908-b1bd-cc77d0140464)
+
 
 ---
 
