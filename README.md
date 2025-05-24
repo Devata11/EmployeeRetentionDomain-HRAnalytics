@@ -129,6 +129,13 @@ The HR Analytics project helps organizations make **informed HR decisions** usin
 
 This project is licensed under the [MIT License](LICENSE).
 
+
+
+## 
+
+
+
+
 ---
 
 ## 📬 Contact
@@ -136,3 +143,18 @@ This project is licensed under the [MIT License](LICENSE).
 Feel free to connect for feedback or collaboration:  
 📧 your.email@example.com  
 🔗 [LinkedIn](https://www.linkedin.com/)
+
+## DASHBOARD IMAGE
+![Screenshot (92)](https://github.com/user-attachments/assets/c2ab55ad-3cd0-4d85-9d1d-803dca26337a)
+
+
+
+
+
+
+
+
+
+
+
+##
