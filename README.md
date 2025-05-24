@@ -1,67 +1,137 @@
+# 👥 HR Analytics Project - Workforce Optimization Dashboard
 
-Creating an HR Analysis Dashboard involves visualizing  key HRmetrics to enable informed decision-making. An  outline of what an HR dashboard might include, as well  as steps andkeymetricstoconsider. Tools Used: Excel,Power BI, Tableau, SQL
+This project presents a data-driven approach to **Workforce Optimization** through HR Analytics. It involves cleaning, analyzing, and visualizing HR data to gain insights into **employee attrition**, **income disparities**, **promotion gaps**, and **work-life balance** across departments.
 
-🌐 Overview
-HR Analytics Project 
- A Data-driven Approach To Workforce Optimization 
- The HR Analytics Is The Process Of Gathering,  Collecting , Analyzing And Interpreting Data Related To Human Resources To  Make Informed Decisions That Can Improve Business 
- Performance.
- By Leveraging Data, HR Teams Can Identify Trends , Predict Future Outcomes , And Optimize Workforce Strategies.
+---
 
+## 📊 Project Overview
 
-📈 Key Performance Indicators (KPIs)
- Total Employee 		: 	50,000                         Attrition rate			:	50.21%
+The HR Analytics project helps organizations make **informed HR decisions** using real data. By exploring trends in employee attrition and job satisfaction, companies can enhance retention, improve productivity, and plan smarter HR strategies.
 
-Avg % hike			:	25%                                  Average Age			:	39
+---
 
-Avg year at company	:	11                            Avg Monthly Income	:	26,016
+## 📂 Project Files
 
-Avg Performance rating	:	2.5                        Avg Hourly Rate		:	115.43
+- `HR_1.xlsx` – Employee data part 1  
+- `HR_2.xlsx` – Employee data part 2  
+- `Powerbi_Dashboard.pbix` – Power BI dashboard file  
+- `Hr_analysis_ppt.pptx` – Presentation with KPIs, charts, and key insights  
+- `README.md` – Project documentation  
 
+---
 
-📊 Dashboard Previews
+## 🎯 Objectives
 
-1. Excel Dashboard
+- Identify key factors impacting employee attrition  
+- Explore relationships between income, promotion, and retention  
+- Visualize workforce distribution by age, department, and job role  
+- Suggest strategic HR interventions
 
-https://github.com/Devata11/EmployeeRetentionDomain-HRAnalytics/blob/main/Exel%20Dashboard.png
+---
 
-2. Power BI Dashboard
+## 📈 KPIs Extracted
 
-https://github.com/Devata11/EmployeeRetentionDomain-HRAnalytics/blob/main/PowerBI%20Dashboard.png
+| KPI                                | Value          |
+|-----------------------------------|----------------|
+| Total Employees                   | 50,000         |
+| Average Age                       | 39             |
+| Average Monthly Income            | ₹26,016        |
+| Average Hourly Rate              | ₹115.43        |
+| Overall Attrition Rate            | 50.21%         |
+| Average % Hike                    | 25%            |
+| Average Years at Company          | 11             |
+| Average Performance Rating        | 2.5            |
 
-3. Tableau Dashboard
+---
 
-   https://github.com/Devata11/EmployeeRetentionDomain-HRAnalytics/blob/main/Tableau%20Dashboard.png
+## 📊 Key Visualizations
 
-   https://github.com/Devata11/EmployeeRetentionDomain-HRAnalytics/blob/main/Tableau%20Dashboard_2.png
+1. **Department vs Avg Attrition Rate**  
+   - R&D has highest attrition (51.21%), Hardware has lowest (49.44%)
 
+2. **Hourly Rate Analysis**  
+   - Male Research Scientists average ₹114.45 per hour
 
-⚙️ Tools and Technologies
+3. **Department vs Monthly Income vs Attrition**  
+   - Lower income departments like R&D show higher attrition
 
-Power BI: For dashboard creation.
-MySQL: To run queries and manage data.
+4. **Average Working Years by Department**  
+   - Software department leads with 20.62 years
 
-📖 Domain Knowledge
+5. **Job Role vs Work-Life Balance**  
+   - Sales Executives report poor balance; healthcare fares better
 
-Understanding of bank hr processes, borrower assessment, and risk management is crucial for interpreting the results.
+6. **Years Since Last Promotion vs Attrition**  
+   - Highest attrition (51.23%) seen in 21–25 years since last promotion
 
-⚠️ Challenges Faced
+7. **Age Group vs Attrition**  
+   - Employees over 56 have highest attrition; 36–45 age group has lowest (49.34%)
 
-Handling missing data and inconsistencies in employee records.
-Optimizing SQL queries for large datasets.
+8. **Travel Distance vs Attrition**  
+   - Employees commuting 1–10 km show highest attrition (50.84%)
 
-🎯 Conclusion
-The Conclusion Of HR Analytics Project Is Not Just The End Of The Analysis Phase But The Beginning Of A Continuous Improvement Cycle.
+9. **Gender vs Attrition**  
+   - Female employees show slightly higher attrition than males
 
-By Regularly Monitoring Key Metrics And Refining Strategies, Organizations Can Maximize The Benefits Of Data-driven HR Practices.
+---
 
+## 🔍 Key Insights
 
+- 25,105 of 50,000 employees have left the organization (50.21% attrition)
+- Lower income is strongly linked to higher attrition
+- Poor work-life balance affects retention in specific job roles
+- Promotions and tenure significantly impact turnover
+- Age and commute distance are critical attrition predictors
 
+---
 
+## 💡 Recommendations
 
+- Improve onboarding & early employee engagement  
+- Invest in career growth & development programs  
+- Reassess compensation policies  
+- Address job role–specific dissatisfaction  
+- Offer flexible work options for long commuters  
 
+---
 
+## 📸 Dashboard Snapshots
 
+### Power BI Dashboard  
+*(open `.pbix` for full interactivity)*  
+![Power BI Dashboard Preview](https://github.com/user-attachments/assets/YOUR_IMAGE_ID_HERE)
 
+---
 
+## 👨‍💻 Team Members (Group 4)
 
+- Apoorva Upadhyay  
+- Devata Paras Jadhav  
+- Swati Birudev Karanwar  
+- Deeksha Patil  
+- Mrs. K. Jeevanandhini  
+- Rushikesh Nitin Karne  
+- Sanket Rameshwar Shinde
+
+---
+
+## 📚 Tools & Technologies
+
+- Excel (Data Cleaning)  
+- Power BI (Interactive Dashboard)  
+- Tableau (Optional Visualizations)  
+- SQL (Querying & Analysis)  
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 📬 Contact
+
+Feel free to connect for feedback or collaboration:  
+📧 your.email@example.com  
+🔗 [LinkedIn](https://www.linkedin.com/)
