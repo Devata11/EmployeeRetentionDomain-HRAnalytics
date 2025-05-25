@@ -36,11 +36,18 @@ The HR Analytics project helps organizations make **informed HR decisions** usin
 
 ---
 
-## EXCEL DASHBOARD
+## EXCL Dashboard
 ![Screenshot (92)](https://github.com/user-attachments/assets/c2ab55ad-3cd0-4d85-9d1d-803dca26337a)
 
+---
 
-----
+## Tableau Dashboard
+![Screenshot (93)](https://github.com/user-attachments/assets/fb46406a-420f-446f-9e34-659adabc258b)
+
+![Screenshot (94)](https://github.com/user-attachments/assets/7dd764b6-f4a5-45cb-92f3-234778e11745)
+
+
+---
 ## 📈 KPIs Extracted
 
 | KPI                                | Value          |
