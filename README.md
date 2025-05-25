@@ -1,4 +1,4 @@
-# 👥 HR Analytics Project - Workforce Optimization Dashboard
+# 👥 HR Analytics Project 
 
 This project presents a data-driven approach to **Workforce Optimization** through HR Analytics. It involves cleaning, analyzing, and visualizing HR data to gain insights into **employee attrition**, **income disparities**, **promotion gaps**, and **work-life balance** across departments.
 
