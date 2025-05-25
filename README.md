@@ -28,7 +28,19 @@ The HR Analytics project helps organizations make **informed HR decisions** usin
 - Suggest strategic HR interventions
 
 ---
+## 📸 Dashboard Snapshots
 
+### Power BI Dashboard  
+*(open `.pbix` for full interactivity)*  
+![Screenshot (91)](https://github.com/user-attachments/assets/9fb773b6-fbce-4908-b1bd-cc77d0140464)
+
+---
+
+## EXCEL DASHBOARD
+![Screenshot (92)](https://github.com/user-attachments/assets/c2ab55ad-3cd0-4d85-9d1d-803dca26337a)
+
+
+----
 ## 📈 KPIs Extracted
 
 | KPI                                | Value          |
@@ -95,26 +107,6 @@ The HR Analytics project helps organizations make **informed HR decisions** usin
 
 ---
 
-## 📸 Dashboard Snapshots
-
-### Power BI Dashboard  
-*(open `.pbix` for full interactivity)*  
-![Screenshot (91)](https://github.com/user-attachments/assets/9fb773b6-fbce-4908-b1bd-cc77d0140464)
-
-
----
-
-## 👨‍💻 Team Members (Group 4)
-
-- Apoorva Upadhyay  
-- Devata Paras Jadhav  
-- Swati Birudev Karanwar  
-- Deeksha Patil  
-- Mrs. K. Jeevanandhini  
-- Rushikesh Nitin Karne  
-- Sanket Rameshwar Shinde
-
----
 
 ## 📚 Tools & Technologies
 
@@ -123,29 +115,6 @@ The HR Analytics project helps organizations make **informed HR decisions** usin
 - Tableau (Optional Visualizations)  
 - SQL (Querying & Analysis)  
 
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
-
-
-## 
-
-
-
-
----
-
-## 📬 Contact
-
-Feel free to connect for feedback or collaboration:  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/)
-
-## DASHBOARD IMAGE
-![Screenshot (92)](https://github.com/user-attachments/assets/c2ab55ad-3cd0-4d85-9d1d-803dca26337a)
 
 
 
@@ -157,4 +126,7 @@ Feel free to connect for feedback or collaboration:
 
 
 
-##
+
+
+
+
