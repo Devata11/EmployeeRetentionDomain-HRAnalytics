@@ -31,7 +31,7 @@ The HR Analytics project helps organizations make **informed HR decisions** usin
 ## 📸 Dashboard Snapshots
 
 ### EXCEL Dashboard  
-*(open `.pbix` for full interactivity)*  
+
 ![Screenshot (91)](https://github.com/user-attachments/assets/9fb773b6-fbce-4908-b1bd-cc77d0140464)
 
 ---
